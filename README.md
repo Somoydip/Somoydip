@@ -1,4 +1,3 @@
-<!-- [![MasterHead](https://drive.google.com/file/d/1uKwSPGpgyPDhsHxeZQx6GGH9kIZsH9yT/view?usp=sharing) -->
 <img align="centre" width= 1000 height=300 src="https://media1.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47uiec7je15f68s7sm6vi6azjch6p97t42khgpcva1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Somoydip Chakraborty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -9,24 +8,24 @@
 
 <pre>- 🔭 I’m currently working on <a href="https://somoydip.github.io/Youtube-Clone/">Youtube-Clone </a> 
 
-- 🌱 I’m currently learning **React & Java Script**
+- 🌱 I’m currently learning <b>React & Java Script</b>
 
-- 💬 Ask me about **HTML , CSS , Frontend Development**
+- 💬 Ask me about <b>HTML , CSS , Frontend Development</b>
 
-- 📫 How to reach me **somoydipchakraborty@gmail.com**</pre>
+- 📫 How to reach me <b>somoydipchakraborty@gmail.com</b></pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somoydip" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somoydip" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/somoydip-chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="somoydip-chakraborty" height="30" width="40" /></a>
-<a href="https://codesandbox.com/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="somoydip" height="30" width="40" /></a>
-<a href="https://fb.com/somoydip chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="somoydip chakraborty" height="30" width="40" /></a>
-<a href="https://instagram.com/_beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_beingrishi" height="30" width="40" /></a>
-<a href="https://hashnode.com/@beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@beingrishi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somoydip" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beingrishi" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somoydip" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somoydip" height="30" width="40" /></a>
+    <a href="https://instagram.com/_beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_beingrishi" height="30" width="40" /></a>
+    <a href="https://codepen.io/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="somoydip" height="30" width="40" /></a>
+    <a href="https://fb.com/somoydip chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="somoydip chakraborty" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/somoydip-chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="somoydip-chakraborty" height="30" width="40" /></a>
+    <a href="https://hashnode.com/@beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@beingrishi" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somoydip" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/beingrishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beingrishi" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somoydip" height="30" width="40" /></a>
+    <a href="https://codesandbox.com/somoydip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="somoydip" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
